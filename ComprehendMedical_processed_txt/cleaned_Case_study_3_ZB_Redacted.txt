@@ -1,0 +1,1923 @@
+PDF Page 1
+(XX y.o. X) (Adm: XXXXXXXX)
+Guarantor Information
+Name:
+SSN:
+Address:
+City:
+XXXXXXXXXXXX: IL
+Zip:
+Phone:
+Employer:
+Address:
+City:
+State:
+Zip:
+Phone:
+Guar DOB:
+Emergency Contact Information
+Name:
+Relationship: CH
+Address:
+City:
+XXXXXXXXXXXX: IL
+Zip:
+Phone:
+Business
+phone:
+Principal Problem Audit Trail
+Problem
+Noted By
+Date/Time
+XXXXXX XXXX in XXXXXX
+XXXXXXXX 1231
+Medical Problems
+Hospital Problem List
+Date Reviewed: XXXXXXXXXX
+ICD-10-
+CM
+Priority
+Class
+Noted
+POA
+* (Principal) XXXXXX XXXX in XXXXXX
+R19.00
+XXXXXXXXX Unknown
+Preop testing
+Z01.818
+XXXXXXXXXX Unknown
+Acute XXXXXXXXXX as cause of
+D62
+XXXXXXXXXX Yes
+postoperative XXXXXX
+Essential XXXXXXXXXXXXXX (CMS-HCC)
+D47.3
+XXXXXXXXXX Yes
+Non-Hospital Problem List
+Date Reviewed: XXXXXXXXXX
+ICD-10-
+CM
+Priority
+Class
+Noted
+XXXXXXXXXX
+L03.90
+XXXXXXXXX
+Acute XXXXXXXXXXXXXXXXXXXX (XXX) of XXXXXXXXXXXX of 182.412
+XXXXXXXXX
+left lower XXXXXXXXX (CMS-HCC)
+Acute XXXXXXXXXXXXXXXXXX without acute cor
+126.99
+XXXXXXXXX
+XXXXXXXXX (CMS-HCC)
+Presence of IVC filter RETRIEVABLE
+Z95.828
+XXXXXXXXX
+Overview Signed XXXXXXXXX 8:36 AM by
+inted at XXXXXXXXXX 1:59 PM
+
+PDF Page 2
+ICD-10-
+CM
+Priority
+Class
+Noted
+RetrievableXXXXXXXXXXXXXXXXXd atXXXH onXXXXXXXXXX3 by Dr.
+AcuteXXE &XXXT withXXXXXXcXXXXs. NeedsXXXXs resection
+Care Plan Problems
+Clinical Goals
+PCP
+Patient Demographics
+Name
+Patient ID
+Gender Identity
+Birth DateXXXXXXe
+(80 yrs)
+Address
+Phone
+Email
+Reg Status
+PCP
+Date Last Verified
+Next Review Date
+Verified
+Demographics
+Address:
+Home Phone:
+Work Phone:
+Mobile Phone:
+SSN:
+Insurance:
+Marital Status:
+Religion:
+MEDICAID
+Widowed
+REPLACEMENT
+Documents Filed to Patient
+After
+Lab
+Power of Living
+Clinical
+Study
+Consent
+ABN
+Visit
+Result
+Code
+MyNM
+Attorney Will
+Unknown
+Attachment
+Form
+WaiverXXXXXXXXXXXXn
+Status
+Status
+Not on
+Not on
+Not on
+Not on File
+Filed
+Not on
+Filed
+Not on
+FULL
+Pending
+File
+File
+File
+File
+File
+[Updated
+onXXXXXXXX3
+1245]
+Admission Information
+Current Information
+Attending Provider
+Admitting Provider
+Admission Type
+Admission Status
+Elective
+Confirmed Admission
+
+PDF Page 3
+Inpatient Admission
+Admission Date/Time
+Date/Time
+Discharge Date
+Hospital ServicXXXXXXXX2XXXX2XXXXXXXX2XXXXXXXXXXXXXXXXXXXXXal Area
+Unit
+Room/Bed
+Auth/Cert Status
+CENTRAL DUPAGE
+CDH GENERAL SURGERY 249/A
+Incomplete
+HOSPITAL IP
+XXXXXXXXXXXXXXXXXXXXal Account
+Name
+Acct ID
+Class
+Status
+Primary CoveragXXXXXXXXXXXXXXXXXXXXXXXXXNT XXXXXXXXXXXXXXXXXXXXAN OF
+IL
+Guarantor Account (for Hospital Account #
+Relation
+Name
+to Pt
+Service Area
+Active?
+Acct Type
+SelXXXMH
+Yes
+Personal/Family
+Address
+Phone
+Coverage Information (for Hospital AccountXXXXXXXX47)
+F/O Payor/Plan
+Precert XXXXXXXXXXXXXXXXXXXXNXXXXXXXXXXXXXXXTH PLAN OF IL
+Subscriber
+Subscriber #
+Address
+Phone
+H&P Notes
+MD (PhysicianXXXXXXXXXX23 17:08 Hospitalist
+CDIP Hospitalist Admission H&P
+Patient name:
+Room:
+Date of admissionXXXXXXXXXX23
+Primary care physician:
+CODE STATUS: full
+Chief complaintXXX/XXXXXap, R oophrecotmy, LOAXXXXXXXXXXXmy
+HPI:
+with a history of essentiaXXXXXXXXXXXXXXisXXXVTXXPXXX/XXXVC
+
+PDF Page 4
+filter, B12 deficienXXXXXXmiXXXXXXvXXXXass, admittXXXXXXXXXX0XXXsXXXXXlap, R oophrecotmXXXLOXXXXXXXXXXXomy. Pt's daughter at bedside interpreting. Pt c/o 5/XXXXain "all over". Denies
+specifXXXXXXXXXnXXXXain. DeniXXXXXXsea.
+ROS:
+10 point ros (-) except as stated aboXXXXXXXXXXXXXXnal: deniXXXXXXXXXXXosXXXXXXeXXXXyes: deniXXXXXXXXXXXXXXgeXXXeXXXXaXXXXXXXXXXXXXXXXXXXXXoat: deniXXXXXXXXcXXXXXXXXXXXXXXXtXXXXosXXXeXXXXaiXXXXXXXXtuXXXXXXXXXXXgXXXCV. deniXXXXXeXXXXaiXXXDOXXXPNXXXXXXXXXneXXXXXXXXXXXXoXXXXulm: deniXXXXXugXXXXXXtuXXXXXXXXinXXXXXXXXXXsiXXXSXX
+GI: deniXXXXXXXXXnXXXXaiXXXXXXXXXgiXXXXXXXXXXXXXXXinXXXXXXXXXXXXXXXXXXXXXioXXXXXXXXXXXsiXXXXXBPXXXXXXeXX
+GU: deniXXXXXXXriXXXXXXXXXXXXnXX
+MS: deniXXXXXiXXXXaiXXXXXXXXXesXXXXXXXXiXXXXkin: deniXXXXXXXXtiXXXXXXheXXXXXXXonXXXXXXXlXXXXXuro: deniXXXXXXXXesXXXXXXXXinXXXXXXxiXXXXXXXXXXXXXXXeXXXXXych: deniXXXXXXXXXXXXXXXXXXceXXXXXXXXXXion XXXXXXXXXXXXXXXXXXues
+Past Medical History:
+Diagnosis
+DaXXXXXXmia
+EssentiXXXXXXXXXXXXion, beniXX
+PXXXXXXXXXaXXXXXXXXXXXXXXXism) (CMS-HCXXXXXXXXXXXXXXsXXXXXXXXXXXXXXXXXXXXXXXncy
+Past Surgical HistorXXXXXXXXXure
+Laterality
+DaXXXXXXXXXXXXXXXEXXXXXXXXXX0XXXXXXXXXXXXXXXXXXXXXXomy, rigXXXXXXXXXXXXomXXXXXXvic aXXXXXXXXXXXXXXXXXXXXXXXXXXomXXXXXXXXXXXXXXXXXXXXXXXXomy, right ureterolysis with DXXXXXter @ CXXXXXXXXXXXXOXXXXXXXXXXXXXXPXXXXXXXXXXXRXXXXXXXXXX023
+XXXXXXPXXXXXXXXXXXRXXXXXXXXX023 CDH INTERVENTIONAL LABS
+XXXXXXXXXXXXXXXXXXXXEXXXXXXXXXX023
+XXXXXXXXXXXXXXXXXXXXEXXXXXXXXX023 CDH INTERVENTIONAL LABS
+Family History
+Problem
+Relation
+Age of OnsXXXXXXaXXXXXXcer
+Neg XXXXXXXiXXXXXXcer
+Neg XXXXXXXiXXXXXXcer
+Neg Hx
+Social History
+Socioeconomic History
+
+PDF Page 5
+Marital status:
+WidoXXXXXXXacco Use
+Smoking status:
+Never
+SmokelXXXXXXXacco:
+Never
+Vaping Use
+Vaping Use:
+Never used
+Substance and Sexual Activity
+Alcohol use:
+No
+Drug use:
+No
+Sexual activity:
+Defer
+Social History Narrative
+NumberXXXXXXXXXXXcies - 8
+NumberXXXXXXXXXXXXages - 4
+Age at menarchXX- 12
+Age at first live birtXX-XXXXXXeast feed children - XXXXXXXXXXXXtomy - XXXXXXXXXXXXtomy - Yes (both)
+Menstruating regularly - No
+Currently takXXXXXXXXXXXXXXXXXXXills - No
+Ever taXXXXXXXXXXXXXXXXXXXills -XXXXXXXXXause - Yes
+Currently takXXXXXXXXXXXXXXXXXXXXXXXXXXXrapy - No
+Ever taXXXXXXXXXXXXXXXXXXXXXXXXXXXrapy - No
+PrXXXXXXXXXXXXXXXsies - No
+Social Determinants of Health
+Food Insecurity: Low RiXXXXXXXXX2023)
+Food Insecurity
+Have there been times that your food ran out and you didn't have money to get
+more? : No
+Have there been any times recently that you worried whether your food would run out
+before you got money to buy more?: No
+Transportation Needs: Low RiXXXXXXXXX2023)
+Transportation Needs
+Do you have trouble getting transportation to medical appointments?: No
+Housing Stability: Low RiXXXXXXXXX2023)
+Housing Stability
+Are you concerned about having a safe and reliable place to live?: No
+No Known Allergies
+HXXXXXXXXXXXioXXXXXXXXXXXions Prior to AdmissXXXXXXXXXXtion
+Sig
+Dispense Refill Last DXXXXXXXXXXXXXphen 325 mg
+Take 2 tablets by
+30 tablet
+0
+Unknown
+tablet
+mouth every 4
+PDF Page 6
+(four) hours as
+needed.
+
+PDF PaXXXXXXXXxaXXXXXXXIXXXS DVT-PE
+Take 2 tablets (10
+74 tablXXXXXXXXXX/2023
+TREAT 30D START) 5 mg
+mg total) by mouth
+(74 tabs) tablets, dose pack
+2 (two) times a
+day for 7 days,
+then take 1 tablet
+(5 mg totalXXXXXmouth 2 (two)
+times aXXXXXXXXXXXXXXXXXXXXXXXXXse-gl
+1 drop if neeXXXXXXXXXX/XXXXXycXXXXXXXXXXXXXXPTIVE)
+0.5-0.9 % DXXXXXXXXXXXXXXlaXXXXXXXTAMIN
+Take 1 tableXXXXXXXXXX/2023
+B-12) 1,000 mcg tablet
+mouth daXXXXXXXIQUIS 5 mg TaXXXXXXXXXX/XXXXXXXXXXidine 20 mg tablet
+Take 1 tableXXXXXXXXXX/XXXXXmouth daXXXXXXXXXXXyurea 500 mg capsule Take 1 capsule by 60 capsuXXXXXXXXXX/XXXXXmouth 2 (two)
+times daXXXXXXXXXXXprost 0.005 %
+Place 1 drop XXXXXXXXXX/2023
+ophthalmic solution
+XXXX eyes every
+evening before
+dinXXXXXXXXartan 25 mg tablet
+Take 1 tableXXXXXXXXXX/XXXXXmouth daXXXXXXXXXX/XXXXXXXXXX acid/herb
+TakXXXXXmoXXXXXXXXXX/2023
+XXXXXXXXXXIN D3
+COMPLETE OXXXXXXXXXXXtatin 10 mg tablet
+Take 1 tableXXXXXXXXXX/XXXXXmouth nightly.
+Indications:
+combination XXXXXXXXXXXXXXXXXXMADoL 50 mg tablet
+Take 1 tableXXXXXXXXX/XXXXXmouth every 6 (six)
+hours as neededXXXX pain.
+OBJECXXXXXXitXXXXXXXX23/23 XXXXXXXX23/23 XXXXXXXX23/23 XX00
+BP:
+108/59
+110/59
+10XXXXXPulse:
+66
+6XXXX
+Resp:
+15
+1XXXX
+TXXXXXXXmpXXXX
+SpO2:
+93%
+96%
+XXXXXXeight:
+HeiXXX:
+Gen: XXXXXXXoomed, no aXXXXXXXXtress
+
+PDF PXXXXX
+HXXXXXXXXXcXXXXXXXclXXXeXXXXm
+XXXXXXsXXXXXXXXXXXXXXXiXXinXXXV: rrXXXXX XXXXX
+Lungs: no incrXXXedXXXX,XXXXXXXbdomen: dressings W small amouXXXXXXXXXXXXXXXXXXXXXXXaining, jp drXXXXXXXXXXXXXXXXXXXX
+fXXXd,XXXXXXXXXXXXtended, soXXXXXXXXaXXXXXXXXgXXXtyXXXt: BXXXXXXXXanosXXXXXXXXubbinXXXXX eXXXa; BXXXXX XXXXaXXXXn:XXXXXXXXXXXXXturgor, no obXXXXXXraXXXXXXXXXechiXXXXXXXeXXXXX
+NXXXX: XXXXXXXXXXXXXXXmeXXXXXXXXXXXXXflXXXXXXXXuXXXXX handsXXXXXXXiXXXXs feeXXXXX
+PXXXXX AlerXXXXXXXXientedXXXXXXXXXXXXXaXXXXt
+LABS
+RXXXXtXXXbXXXXXXXX/23/23XXX37
+HGBXXXXXXLXXXXXXXX/23/23
+Reference
+10:37
+Range &
+XXitXXXXXXXXXXXXXX BloodXXXX4
+XXXXXXXXterial
+35.0 - 45,0
+38.7
+XXXHgXXXXXXXXterial
+80.0 105.0
+290.0 (HH)
+XXXXg
+XXXXXXXXterial
+22 26
+21 (L)
+mXXXXXXSoXXXXXXXXXXXXXXXod Gas
+138 - 146
+141
+XXXXXXXXXXXXXXXXXld Gas
+3.5 4.9
+3.8
+XXXXX
+XXXXXXXXXXXXal POC
+23.0 - 27.0
+22.0 (L)
+mmol/L
+XXXXXXXXXXXXal POC
+95 98%
+100 (H)
+(HH): Data is critically high
+(L): Data is abnormally low
+(H): Data is abnormally high
+LXXXXXXXX/29/23
+Reference
+14:21
+Range &
+XXXts
+WBC
+3.6 10.2
+6.1
+10^3/uL
+
+PDF XXXe 9
+RBC
+(Based on
+2.52 (L)
+documented
+legal sex)
+4. 10-5.30
+1XXX/uL
+HGB
+(Based on
+10.6 (L)
+documented
+legal sex)
+11.9-15.XXX/dL
+HCT
+(Based on
+32.0 (L)
+documented
+legal sex)
+37.4-XXX3 %
+MCV
+82.0 - 99.0 fL
+127XXX(H)
+MCH
+27.0 - 33.0 pg
+42XXXXH)
+MCHC
+32.0 - 36.0
+33.XXX/dL
+RDW
+11.0 - 15.0 XXX2.1
+PLT
+150 - 450
+198
+1XXX/uL
+MPV
+9.8 - 12.7 fL
+9XXXXXXXXXXXXXXed RBCs
+0XXXXXXXXXXXXXXXXXXXbsolute
+1.1 6XXXXXXXXXXXXXXXXl Count
+10^3/uXXXX): Data is abnormally low
+(H): Data is abnormally high
+XXXXXXXX9/29/23
+Reference
+14:21
+Range &XXXXXX
+Sodium
+133 146
+142
+XXXXXXXXXtassium
+3.5 5.1
+4.6
+XXXXXXXXhloride
+98 107
+106
+XXXl/L
+CO2
+21 31
+27
+XXXXXXXCalcium
+8.3 10.5
+9.6XXX/dL
+Bun
+7 - 25 mgXXXXXXXXXXatinine
+0.60 1.30
+0.84
+mg/dL
+
+PDF XXXXXXX
+Glucose
+70 - 100
+106 (HXXXg/XXXXLT (SGPT)
+9 - 43 uniXXXL
+XXXXST (SGOT)
+13 - 39 uniXXXXXXX
+Albumin
+3.5-5.0 - gXXXXXXXXXXXXXXXXXXXXsphatase
+34 - 104
+50
+XXXXXXXXXXXXXXXin Total
+0.2 - 1.2
+0.XXXXXXXXXXXXX Protein
+6.4 - 8.3 gXXXXXXXXXnion Gap
+4 - 13 mXXXXXX9
+eGFRcr (CKD-EPI 2021)
+>=60
+70
+mL/mXX/1X73
+XXXXH): Data is abnormalXXXhiXXXXXGXXX0XXXXXXXXXXXXXXXXXXXXXXXXX
+IXXXXXGXXX0/14 CXR
+FINDINGS/
+IMPRESSION:
+1.XXXXXXX opacity in the peripheral righXXXXwer lobe may reXXXXXXXXXXXlectasis, XXXXXXXXXXXeXXXXXXXXscarring oXXXXXXXXXneumonia in the proper clinical settXXXXXXXXXXXXmothoXXXXXXX XXXXXXXXeffusXXXXXXXXXXXXXXXXXart size. AtheroscXXXXXXXXXXrtuosityXXXXXXXXXXXXXXic aorta.
+3. NXXXXXXX XXXXXXXXXXXormality. There is an IVC XXXXeXX
+XXXXXXXXABD/PELV
+Again seen is a XXXXXXxXXXXvic mass at and slightly to the right of midline, now measuring
+11.4 cm anteroposterior, 10 cm transverse, and 11.5 cm craniocaudal, previously 14.5 X 11.4
+X 11.2 cm when using similar measurement technique. Although there is interval decrease in
+size, this appears to represent decreaseXXXXXXXXXXXXXXXXomponent, as there is incXXXXXng
+muXXXXXXdXXXXXXXXXXdularXXXXXXXXXXickening compared to pXXXXXXX imaging. Finding is
+consisteXXXXXXX XXXXXXXXneoplasm. DeXXXXXXXXXXXs effect on tXXXXXXXXXXXXXXXXXiac vein is
+decreased compared to thXXXXXor study.
+IMPRESSION:
+1. Complex cystic anXXXXlid massXXXXXXe pelvis as detailed above, suspiciXXXXXXX XXXXXXXXneoplasm. Since pXXXXXXX imagiXXXXXhXXXXXXlXXXXXXXXXXdularXXXXaXXXXXXXXXXickening appear
+increased.
+2. AsymmetXXXXXXX smallXXXXXXt common and eXXXXXXXXXXXac veins, consisteXXXXXXX sequela oXXXXXXXXthrombus. No acuXXXXeXXXXXXXXthrombus is identified.
+ASSESSMENT/PLAXX
+is a X0 y.o. F with a history of esXXXXXXXXXXXXXXocXXXsiXX DVT,XXXXXXXXXXC filter,
+B12 defXXXXXXy XXXXXX,XXXXvic mass, aXXXXXXXXXX/23/2XXXXX/p exlap, R oophrecotmXXXXXXXXXXXntectomy.
+
+PDF PagXXXXXs/p exlap, R oophrecotXXXXXXXXXXXentectomy
+- management per gyn onc
+H/o eXXXXXXXXXXXXXXbocytosis
+- XXXXXXXXXXXdroxyurea
+- fXXXXXXr. EiXXXr
+XXo DVT, PE, IVC filteXX- holdXXXXXAP, NSAID 2/2XXXXXXXX bleeding concerns
+- pt to f/u W IR as outpatXXXXXXXXXXXXXXXXXXr removal
+B 12 deXXXXXXcy anemia
+- contXXXXXXXX
+Glaucoma
+- XXXXXXXXXXXtanoprost
+Hospital Medicine CXXXXXXXXXX0XXXXXXXXXXXXXXXophylaxis: scd
+CVC/FoleyXXXXs
+AM LXXXXXXXXXIV fluXXXX Yes
+Tele: No
+Expected Discharge Date: 3 days
+Provider, ExtXXXXXXXXX10/6/2023 13:43
+DocXXXXXXXXX10/6/2023 1:43 PM by
+Progress Notes Last 48hrs (NoXXXXXXXXXX0/23/2023 1:59 PMXXXXXXXXXX0/25/2023
+1:59 PM)
+NoXXXXXXXXXX0/23/2023 1:59 PMXXXXXXXXXX0/25/2023 1:59 PM
+Progress Notes byXXXXXXXXXX0/25/2023 9:48 AM
+Version 1 of 1
+Author:
+PA-C
+XXXXXXXXXXXXXXXXXXX Oncology
+Author Type: Physician AssistanXXXXXXXXXX0/25/2023 9:54 AM
+Date of XXXXXXXXXX0/25/2023 9:48 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+SubXXXXXXX:
+SurgeXXXXXXXXXX0/23/2023
+POD: 2 Days Post-Op
+Surgery: ProceXXXXXXXXXXXXXXXXXXXXXXaparotomXXXXXXXXXXXXXhoXXXXXXy, peXXXXXXXXXXXXXXXXXXXXXXXXXXdeXXXXXXXXXXXXXXXXXXXXXXXXentectomy, right ureterolysis, extensive lysis of adhesions
+Interval History:
+
+PDF Page 12
+Patient sitting up in chair, family atXXXdsXXXXXXXX, XXXXrile. LabXXXtable,XXgb 8.5. JP with
+350cc oXXXXXXXXXXSSXXXXXXXt. Voiding spontXXXXXXXXXXXXequate XXXXXXome nausea this
+morning but reliXXXXXXith Zofran. OXXXXXXXXXXXXXXXating dieXXXXXXieXXXXatus. Pain overall well
+controXXXXXXXth PO meds. Due to ambulate.
+Objective:
+XXXXduled Meds:
+Current Facility-AdmXXXXXXXXXXXeXXXXXXXXXXMedication
+Dose
+Route
+XXXXXXXXXXXXXtaminophen
+650
+Oral
+XXXXXXXy
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mg ReXXXXXXXXXX10XXXXXXXXX
+bXXXXXXXX
+(DULCOLAX)
+suppositXXXXXXXXXXXXXXocobalamin
+1,000
+Oral
+Daily
+tablet 1,00XXXXXXXXXXfamotidine
+20 mg XXXXXXID
+(PEPCID) tabXXXXXXXmgXXXXXXXn (porcine)
+5,000
+Subcutaneous
+TID
+injection 5,000
+UnXXXXXXXXXXXydroxyurea
+500
+XXXXXXID
+(HYDREA)
+mg
+capsuXXXXXXXXXXXatanoprost
+1 XXXX Both XXXXXXXM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 drop
+pravastatin
+20 mg OralXXXXXXXXX(PRAVACHOL)
+tabXXXXXXXXXXXXXXa-docusate
+2
+XXXXXXXXXXPERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current Facility-AdmXXXXXXXXXXXeXXXXXXXXXXMedication
+Dose
+Route
+XXXXXXXXXXXXXXXXed Ringers
+IV Infusion
+CXXXXXXXXXXXXXXXXed Ringers
+IV Infusion
+ContiXXXXs
+XXXXXXXXXXXXXXXXXXXe-XXXXXXXl XXXXXXXXXXXorXXXXXXXXXXXXXXXnhXXXXXXXXXXXXXXXnhXXXXXXXXXXXXXROXXXXXXXXXXXXXXclXXXXXXXXXXXndansetron (PXXXXXXXXXXXXXXXseXXXXXXXXXXXXXXXXXylXXXXXXXXXXXXXXXXorXXXXXXXXXXXimXXXXXXXX, traMADoL
+Allergies: Patient has no known aXXXXXXXXXXXemperatuXX: [97.8 °F (36.6XXC)-99.1 °F (37.3 XX)] 97.8 °F (36.6 °C)
+
+PXXXXXXXXXX
+Heart Rate: XXXXXXXXXXXXespirations: XXXXXXXXXXXXXXod Pressure: (109-135)((41-XXXX125/54
+SpO2: [91 %-XXXXXXXXXXXXXtaXXXOutput:
+I/O last 3 completed shifts:
+In: 1708.7 XXXX.:840; IXXXXX68.7; Blood:600]
+XXXXX2250 [Urine:1650 DXXXXXXXXXXXXXysXXXXXXXam:
+GenXXXXX This womaXXXXXXXXno distress appearing comfortabXXXXXhe isXXXXXXXXnd orXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXo XXXXXioXXXXXEXXXXXXXXXXXXXXXXs memXXXXXX,XXXXXhrushXXXXXXXXXXXXXXXXXXXXXuscultation bilateXXXXXXXXXXXXXXXXXXXXXXX eXXXXXXXXXXXXXXdiovascular examinatiXXXreveals RRXX witXXXt XXXXXXXub.
+AbdomeXXXXXXXXX, XXXXXXXXXXXXondistendXXXXXXXXXXXXXXXXXXplenomegaly. She has no
+eXXXXXXe XXXXerniXXXXXXX oXXXXcites. + BS X 4. JP XXXXXXXXXX XXXXXXXXXXXExtremities aXXXXXXXXutXXXXXXXXs, cXXXXXngXXXXXdXXXX
+Neuro exam XXXXXXXXlyXXXXXocal.
+Wound Description: midline incision island dressing removed. Staples intact.
+Data Review:
+HXXXXRXXXnXXXXXXXXaXXXXXXXX2XXXXXXXX2XXXXXXXX23
+10/25/23
+1037
+0438XXX57
+0517
+WBC
+--
+9.0XXX.8*
+9.1
+HGB
+8.8*
+6.4*XXX0*
+8.5*
+PLT
+--
+117*XXXX*
+128*
+ChXXXXRXXXnXXXXXXXXaXXXXXXXX23
+10/25/23XX438
+0517
+XA
+138
+142
+K
+4.6
+3.9
+CLXXX8*
+108*XXX2
+25
+27XXXXXXXXXX
+CREATININEXXXXXXX.70
+GLUCOSEXXXXXXX09*
+CALCIUM
+8.7
+8.0*
+CoagulatiXXXXRecent Labs
+
+XXX XXXXXXXXLXXXXXXXX/XXXXXXXX/23
+10/25/23
+043XXX257
+0517
+PLT
+117XXXXXXXXXXXXXumXX Markers:
+CA 125
+Date
+Value
+Ref RXXXXXXXXXXs
+03/31/2023
+35.0
+0.0 - 35.0 UniXXXXXXXXXXl
+01/12/2023
+59.0 (H)
+0.0 - 35.0 - Units/mL
+Final
+Last 3 Weights:
+Wt Readings from Last 3 XXXXXXXXrs:
+10/23/23
+59.2 kg (130XXXXXXXXoz)
+10/06/23
+58.1 XXXXXXXXlb)
+09/29/23
+59.4 kg (130 lb 14.4 oz)
+XXsessmeXXXXXX y.o. female POD #2 after PrXXXXXXXXXXXXXXXXXXXXXXy laparoXXXXXXXXXXXXXopXXXXXXtomy,XXXXXXXXXXXXXXXXXXXXXXXXXXphXXXXXXXXXXXXXXXXXXXXXXXX omentectomy, right ureterolysis, extensive lysis of adhesions
+Patient Active Problem LisXXXXXXXXXXs
+CelluXXXXXXXXXXXXXXXXXXXXn XXXombosXXXXXXXXXXXXfemoral vein ofXXXXXXXXXer extXXXity (CMSXXXXXXXXXtXXXXXXXXary embolism wiXXXXXXXXXXXXXor pulmonalXXXXXX-XXXX
+PelXXXXXXss in female
+Presence of IVC filter RETRIEVABLE
+Preop teXXXXXXXXXXe blood loss as cause of poXXXXXXative anemiXXXXXXXXXXXXXXrombocytosis (CMS-HCC)XXXXXXXXXC: Pathology Pending, frozen c/w HGSOC. Will need to be presented at tumor boardXXXXn final paXX resulted
+GI: regular diet, - flatusXXXXXXtient nauseXXXXXXXXXXXXXXweXXXXotocol.
+Pain: contXXXXXXXXXXXXXcetamXXXXXXXXand TXXXXXXXXXXXXXX pXXXXXXaXXs:XXXXXXXXXXXXXXXXXXXXXXXX XXXX and BP
+Pulm: encourage IS and deeXXbreathing
+GU: Voiding, adXXXXXXXXXXXXXXX pXXXXylaxis: SCDs, trXXXXXXXn to lovenox starting tomorrow morning. Will need AXXXXonXXXXXXXXXX: XXXble WBC, hgb staXXXX s/pXXXXXRBC oXXXXXXXXXXX transfusion needs at this time.
+Electrolytes: replete as needed per protocol
+Activity: ambulate several times a day, encourage IS 10x/hr while awake
+
+PDF Page 15
+Disposition: anticipate discharge home possibly 2-3d. PT XXXXXXXXXXXXXSAR placement
+upon d/c
+Case discusXXXXXXXXXXXXXXXXC
+Gynecologic- Oncology
+Progress NoteXXXXXXXXXXat 10/24/2023 7:32 AM
+Version 1 of 1
+Author:
+PXXXXXXXXXXXXXXXXXXXlogy Oncology
+Author Type: Physician AssiXXXXXXXXXXd: 10/24/2023 10:32 AM
+DateXXXXXXXXXXe: 10/24/2023 7:32 Status: Cosign Needed
+AM
+Editor:
+PA-C (Physician Assistant)
+Cosign Required: Yes
+Gynecologic Oncology Progress Note
+Subjective:
+SXXXXXXXXXXe: 10/23/2023
+POD: 1 Day Post-Op
+Surgery: PXXXXXXXXXXXXXXXXXXXXXXry laparXXXXXXXXXXXXXooXXXXXXctomyXXXXXXXXXXXXXXXXXXXXXXXXXXmpXXXXXXXXXXXXXXXXXXXXXXXXc omentectomy, right ureterolysis, extensXXXXXXXXX of adhesions
+Interval HistXXXXXXXXXXXXXXesting XXXXXXXXVSXXXafebrile. Hgb this AXXXX 6.4, 1u PRBC ordered.
+States she has bXXXXfeeling "weak". JP drain with 200cc outpuXXXXXXXXXXXXXXXXXXXXXXX
+gXXXXXXXXXXXXXXXXXXull breakXXXXXXitXXXX nausea. Pain well controXXXXXXXth PO tylenol. FoleXXXXXXXXXXXX urine output XXXXXXXXXXXXXXppears yellow this AM.XXXXXXXXXyet aXXXXXXXX 2/2
+weakXXXXXXdenies SOXXXXXXDeniXXXflatus or BM.
+ObjectivXXXXcheduled Meds:
+Current Facility-XXXXXXXXXXXdXXXXXXXXXXns
+Medication
+Dose
+RouXXXXXXXXXXXXXacetaminophen
+650
+OrXXXXXXXaily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+10 mgXXXXXXXXXXceXXXXXXXXX23XXXXXXXXdyL
+(DULCOLAX)
+suppoXXXXXXXXXXXXXXyanocobalamin
+1,000
+Oral
+Daily
+tablet 1,000 mcg
+mcg
+
+PDF Page 16
+[Held by Provider] 40 mg SubcuXXXXXXXXXXilXXXXXXXparin
+(LOVENOX)
+inXXXXXXXXXX mg
+famotidine
+20XXXXXXal
+BID
+(PEPCID)XXXXXXXXXXXmg
+hydroxyurea
+XXXXXXal
+BID
+(HYDREA)
+mg
+cXXXXXXXXXXXmg
+latanoprosXXXXdrop BXXXXXXXs
+QPM
+(XALATAN) 0.005
+% ophthalmic
+soXXXXXXXXXXXop
+pravastatin
+20 mg XXXXXXXXXtly
+(PRAVACHOL)XXXXXXXXXXXXXXsenna-docusatXXXXXXXXXXID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current FacilityXXXXXXXXXXXeXXXXXXXXXXons
+Medication
+Dose
+RoXXXXXXXXXXXXXXXXctated Ringers
+IV InfusiXXXXXXXXXXXXXXXXctated Ringers
+IV InfusiXXXXXXXXXXXXXXXXctated Ringers
+IV Infusion
+CXXXXnuXXXXXXXXXXXXXXXXXXXcaXXXXXXXntXXXXXXXXXXXL)XXXXXXXXXXXXXXXipXXXXXXXXXXXXXXXipXXXXXXXXXXXXX HXXXXXXXXXXXXXXmeXXXXXXXXXXXe, ondansetroXXXXXXXXXXXXXXXndXXXXXXXXXXXXXXXXXyvXXXXXXXXXXXXXXXXocXXXXXXXXXXXe,XXXXXXXXcone, traMADoL
+Allergies: Patient has no knoXXXXXXXXXXXs.
+TempeXXture: [XX.1 °F (36.2XXXXXXXXXX°C)
+Heart Rate:XXXXXXXXXXXX7
+RespirationXXXXXXXXXXXXXXBlood Pressure: (92-117)/(XXXX9) 103/43
+SpO2: [90 %-XXXXXXXXXXXX$ O2 Flow Rate (L/min): [1 L/min-2 LXXXXXXXXXXXXX
+IXXXke/Output:
+I/O last 3 completed shiftsXXXX: 3628.7 [P.O.:360;XXXXXXXXXXXX; IV Piggyback:50XXXXXt: 1475 [Urine:675; Drains:30XXXXXXXXXXXXX
+PXXXXXXX Exam:
+XXXXXal: This wXXXXXXXXin no distress appearing comforXXXXX, sheXXXXXXXXt andXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXy XXXXXesXXXXX.XXXXXXXXXXXXXXXXcous XXXXXXnXXXXXo thrXXXXXXXXXXXXXXXXXXXXXo auscultation bilaterallXXXXXhXXXXXXXXXXesXXXXXXXXXXXXXXCardiovascular examinXXXon revealsXXRR, XXXhout S3 or rubXXXXXXXPage 17
+AbXXXXXXXXXsoXXXXXXXXXXXXr, nondisXXXXXXXXXXXXXXXXXXatosplenomegaly. She has XXXXXXdeXXXXof hXXXXXXXmassXXr ascites. + BS X 4. JP drain with SSXXXXXXXtXXXXXXXXXXXied
+ExtremitiXXXXXXXXitXXXXXXXXnosiXXXXXubXXXXXoXXXXema.
+Neuro eXXXXXXXXroXXXXXnonfocal.
+Wound DescriXXXXXXXXidline incision with island dressing in place, stained wXXXXXXXXt pink
+drainage
+Data RevieXXXXEXXXRXXXXXXXXbXXXXXXXX/23/23
+10/2XXX3
+1037
+0XXX
+WBC
+--
+9.0XXXB
+8.8*
+6.XXXXLT
+--
+117XXXXeXXXRXXXXXXXXbs
+LabXX0/24/X3
+043XXNA
+138XXX4.6
+XXX108*XXXXXXXXXXN
+16
+CXXXXXXXNE
+0.7XXXXXXXSE
+11XXXXXXXXXXX8.7
+CoaguXXXXoXXXRXXXXXXXXbs
+LabXXX/24/23XXXXXXXXXXXXX*
+XXmor Markers:
+CA 125
+Date
+Value
+ReXXXXXXXXXXatus
+03/31/2023
+35.0
+0.0-35.0 - XXXXXXXXXXinal
+01/12/2023
+59.0 (H)
+0.0-35.0 Units/mL
+Final
+Last 3 Weights:
+Wt Readings from LastXXXXXXXXnters:
+10/23/23
+59.2 kg (XXXXXXXX.2 oz)
+10/06/23
+58XXXXXXXX28 lb)
+09/29/23
+59.4 kg (130 lb 14.4 oz)
+
+PDF Page 18
+AsseXXXXXX:
+80 y.o. female POD 1 afteXXXXXXXXXXXXXXXXXXXXXXatory laXXXXXXXXXXXXXhtXXXXXXorectXXXXXXXXXXXXXXXXXXXXXXXXXX lXXXXXXXXXXXXmXXXXXXXXXXXtric omentectomy, right ureterolysis, extensive lysis of adhesions
+Patient Active ProblemXXXXXXXXXXnosis
+CXXXXXXXXXXXXXXXXXXXX vXXX throXXXXXXXXXXXX of femoral veiXXXXXXXXX lower extremity XXXXXXXXXXXXXXXXXXlmonary embolisXXXXXXXXXXXXXte cor pulmXXXXXX(XXXXHCC)XXXXXXc mass in female
+Presence of IVC filter RETRIEVABLE
+PreoXXXesXXXXXXXXX:
+ONC: Pathology Pending, frozen c/w HGSOC. Will need to XXXXXesented at tumor bXXXX
+when finaXXpath resulted
+GI: regularXXXXt, - flatus
+Pain: XXXXXXXXXXXXXth AcXXXXXXXXhen aXXXXXXXXXXXXXXn
+XXXXXXpXXlaxis: PeXXXXXCV: normalXXeXXXXrate and BP
+Pulm: encourage IS andXXeep breathing
+GU: FolXXXXXXXXXXXXXXX
+DVT prophylaxis: SCDs, hold chemoprophylaxis XXXiXXXXternoon hXXXHeXXX stable WBC,XXXX to 6.4, 1u PXXXXXXXXXXX for transfusioXXXWill recheck hgbXXXXXXXXXXXXoon
+Electrolytes: replete as needed per protocol
+Activity: ambulate several times a day, encourage IS 10x/hr while awake
+Disposition: anticipate discharge home possibly 2-3d
+Seen with dr
+PA-C
+Gynecologic Oncology
+ProgressXXXXXXXXXXMD at 10/24/2023 8:00 AM
+Version 1 of 1
+
+PDF Page 19
+Author:
+MD
+Service: Hospitalist
+Author Type: XXXXXXXXXXFiled: 10/24/2023 10:10 AM
+XXXXXXXXXXrvice: 10/24/2023 8:00
+Status: Signed
+AM
+Editor:
+MD (Physician)
+NMRMG Hospitalist Progress Note
+Patient name:
+Room:
+DaXXXXXXXXXXssion: 10/23/2023
+Primary care physician:
+MD
+Daughter assisted with Urdu translation per pt preference
+CC / Reason for visit: gen XXXXXXXXXXX gyne onc surgery
+InXXXval Events:
+- HGB 6.4XXXXs AM. 1 unit pRBC XXXered
+- repeat cbc planned for early afternoon
+S:
+- she XXXXsome post-op paXXXXXXXXXas soXXXXXXXXness. No vomiting.
+O:
+No Known AllXXXXes
+Scheduled Meds:
+Current FacilXXXXXXXXXXXtered Medications
+Medication
+DoseXXXXXXXXXXXXXncy
+acetaminophen
+65XXXXXXX4x Daily
+(TYLENOL) tablet mg
+650 mg
+[START ON
+1XXXXXXXXXXl
+XXXXXXXXX6/XXXXXXXXsacodyL
+(DULCOLAX)
+sXXXXXXXXXXXXXXmg
+cyanocobalamin
+1,000 Oral
+Daily
+tablet 1,000 mcg
+mcg
+[Held by Provider] 40 mg SuXXXXXXXXXX
+DXXXXXXXoxaparin
+(LOVENOX)XXXXXXXXXX 40 mg
+famotidineXXXXXX Oral
+BID
+(PEPCXXXXXXXXXXX20 mg
+hydroxyurXXXXXX
+Oral
+BID
+(HYDREA)
+mXXXXXXXXXXX00 mg
+latanopXXXX
+1 droXXXXXXXEyes
+QPM
+(XALATAN) 0.005
+% ophthalmic
+solution 1 XXXXXXXXXXXage 20
+pravastatin
+20XXXXXXXXXNightly
+(PRAVACXXXXXXXXXXXXXX mg
+senna-docXXXXXXXXXXal
+BID
+(PERICOLACE)
+tablet
+8.6-50 mg per
+tablet 2 tablet
+Continuous Infusions:
+Current FaciXXXXXXXXXXXsXXXXXXXXXXcations
+Medication
+DosXXXXXXXXXXXXXXXXy
+Lactated Ringers
+IV InXXXXXXXXXXXXXXXXs
+Lactated Ringers
+IV InXXXXXXXXXXXXXXXXs
+Lactated Ringers
+IV InfusiXXXXonXXXXXXXXXXXXXXXXXXXenXXXXXXX- XXXXXXXXXXXPAXXXXXXXXXXXXXXXt,XXXXXXXXXXXXXXXE,XXXXXXXXXXXXXINXXXXXXXXXXXXXXneXXXXXXXXXXXamide, ondansXXXXXXXXXXXXXXX**XXXXXXXXXXXXXXXXX pXXXXXXXXXXXXXXXX, XXXXXXXXXXXazXXXXXXXXethicone,XXXXXXXXL
+VitaXXXXXXXX3/23 1XXXXXXXX3/23 2XX0
+10/24/23 0344
+BP:
+108/51
+(!) XXXXX4
+(!) 103/4XXXXlse:
+61
+62
+XXXXesp:
+16
+16
+16
+TeXX:
+98.1 XX (36.7 XX)
+98.8 XX (37.1 °C)
+98XXXXXXX37.2 ° °C)
+TempSrXXXXral
+Oral
+Oral
+XXXXXX92%
+98%
+97XXXeigXXXXXXXXht:
+Gen - PleaXXXXXXXX nXXXXXXXXXXXXXXXXXXXonXXXXXcXXXXXXXXXXX XXXXX/apXXXXXiXXXXXXXXXXXXXXXstXXXXuXXXXmbrXXXXXXXXXXXXXXX -XXracXXX midlXXXXXCXXXXXRR,XXXXXXXXXXXXXXXXXXXXXar to auscultatioX XiXatXXXXXXXXXX w/r/r, nml eXXXXXXXn room air
+AXXXXXXXXXXmiXXXXXXXXstension. Incision dressed with minimaXXXtrXXX XXXough, XXXXX+BS
+XXXXXXXX edema orXXXaXXXXs, distal XXXXXXXX XXXXwell pXXXXXXXXSkin - noXXXXXXXXXXXXXro - XXXXXX XXXXntXXXo XXXmor
+LabsXXXXCXXXNXXXXXXXX XXXXXXXX
+10/23/23
+1XXX4/23
+103XXX438
+WBC
+--
+XXX
+HGB
+8.8*XXX4*
+PLT
+-XXXX7*
+CMP
+RecentXXXbXXXXXXXXage 21XXab
+10X24/23XX438
+NAXXX8
+K
+XXX
+CL
+XXXXXXXXXX5
+BUN
+XXXXXXXTININEXXXXXXXLUCOSE
+117*
+CXXXXUM
+8.7
+Pending Labs
+OrXXXXXXXXent Status
+CYTOLOGY, BODY FLUID
+In process
+SURGICAL PAXXXLOGY
+In process
+RBC Prepare and Crossmatch, 1 Units
+XXXliminary result
+RBC Prepare and Crossmatch, 2 Units
+XXXXXXXnary result
+Imaging:
+None this eXXounterXA/P:
+is a 80 y.o. F with a hiXXXXXXXXXXXXXXtiXXXthXXmbocyXXXXXXXXXX, PE s/p IVC
+filtXXXXXX2 XXXXXXeXXXXanemia, pelXXXXXXXXXXadmitXXXXX0/23/2023 s/p exlXXX RXXXXXXXXXXXy,
+LOAXXXXXntectomy.
+s/p exlXXX RXXXXXXXXXXXy, LOA, omentectomy
+- management per gyn onXXXXXXe blood loss anemia superXXXXXX onXXXXXXXXX anemia
+XXXXansfuse 1XXXit pRBC
+- trend cbc RepeatXXXXXXXXXXXXXXXn
+- anticoagulation on XXXXXXXXXXXXXXtial thromboXXXXXXXXXXXontinue hydroxXXXXXX- f/u wXXXXXXEisner
+XXXXXXXXXXPE
+Hx of IVC filXXXXX hold AC, AP,XXXXXXXX/2 post op bleeding concerns acutely. Reassess pending cXXXical
+courXX and HGB trend
+- pt to eventually f/u W IRXXXXXXXXXXXXXXXXXX IVC filter removXXXXXX2 deficiency aneXXXXXXXXntinue B12
+GXXXXXXXXXXXontinue latanoprost
+Hospital XXXXXXXXXXhecklist 10/2XXXXXXXXXXXXXXXe 22
+DVT prophylaxis: SCDs
+CVC/Foley: +XXXety XXXX-op / no CVC
+AM XXXXXXXXX - post-op
+IV flXXXX: Yes - post-op
+Tele: No
+ExpecXXX Discharge Date: TBD pending post op course. Hear at least one moXXXnight to
+monitor HGB
+MD
+NMRMG HospitaXXXXXXXele):
+(Fax):
+Therapy Note XXXXXXXXXXXXXXXXXX (XXXXXXXXXXherapist) 10/25/2023 09:41 RehaXXXXXXXXXXXXXXXXces
+Physical Therapy Initial EvaluationXXXXXXXXXXAME:
+DOB: 12/15/1942 MRN:XXXXXXXXXXXXXXXXXXXXMEDICAID XXXXXXXXXXXXXXXlan: MERIDIAN HEALTH PLAN OF IL /
+Product Type: XXXXXXXXssion Date: 10/25/23 Session Time: 0928
+Patient Received: Supine in bed
+Medical Lines/Equipment: (none)
+History of Present IllnessXXXXXXpXXXXagnosis: pelvis mass
+Pertinent Past Medical/Surgical History:
+Past Medical HistXXXXXXiagnosis
+DaXXXXXXXXXXXXsential hypertensioXXXXXXXXXXXXXXntXXX thromXXXXXXXXXX(XXS-XXXXXXXXXXXXXXXXXXXXXXXXXnarXXXhromboXXXXXXXXXXXXXX-XXXXXXXXXXXXXXXXXXXXXXXamin B 12 deficiency
+PasXXXXXXXXXl History:
+ProcedXXXXXXXXXXXXXXXDXXXXXXXXXXNXXXXXXXXXXXXXXXXXXXXXXploratorXXXXXXXXXXXX, XXXXXXoophoXXXXXXXXXXXXXXXXXXXXXXXXXXrtXXXXXXXXXXXXXXXXXXXXXXXXagastric omentectomy, right urXXXXXlysis wXXXXXXXXXXXXrXXXXXXXXXXXXXXCXXXXXXXXXXXRXXXXXXXXXXNE MXXXXXX0XXXXXXXXXXXRXXXXXXXXXONE MARROW 5/31/2023 CDH INTXXXXXXXXXXXXXXXXXXXXIXXXXXXXXXXPLACXXXXXXXXXXXXXXXXXXXXIXXXXXXXXX PLACXXXXXXXXXXXXXXXXXXX INTERVENTIONAL LABS
+
+PDF Page 23
+RUE weight bearXXX: No restrictions
+LUE weight bearXXX: No restrictions
+RLE weight bearXXX: No restrictions
+LLE Weight Bearing: No restrictions
+Precautions: Fall
+Interpreter Use
+Free and Confidential Interpreter Offered: Yes
+Interpreter Name and ID: dtr requested to interpret but despite several requests for dtr to
+walk wiuth pt, dtr remained in room on phone. pt was able to understand general english for
+communication
+Topic of interpretation : General communication, Assessment
+Patient Declining Hospital Interpretation Services: Yes
+Subjective
+Subjective
+PT SubjecXXXXXReport: "I feel tired"
+Home Environment:
+Type of Home: Apartment/condo
+Home Layout: (lives on second level and dtr reports no elevator but dtr is from out of town)
+Lives With: Alone
+Receives help from: Family
+Needs Assistance With: Meal preparation, HousehXXX chores, Driving, Med management,
+Shopping, XXXXXXXXXXXXXlation, Bowel/Bladder, Finances, Dressing, Transfers
+Home Equipment: Cane (straight) (requests a walker for home use)
+Prior Level Of Function:
+Prior Function: home ambulation
+Prior Function - Home Ambulation: Modified independent
+Braces/Equipment/Devices
+Patient used prior to hospitalization: Assistive device(s)
+Assistive Devices: Single point/straight cane
+Pt lives alone in second story apt with family periodically coming by. Has stairs and no
+elevator per family report. Uses SC PTA aXXXXamXXXXdrivesXXXX
+Pain:
+Pain: Yes
+Pain Intervention(s): Rest
+PXXXXXXXXXXused: 0-10
+Pain Score:XXXXd not rate XXXXXXXaXXXXocation: Abdomen
+Pain Quality: Aching
+Patient Behavior: Calm
+Is patient willing to proceed?: Yes
+Objective
+
+PDF Page 24
+OBJECTIVE
+Vision: WFL
+PT CoXXXXXXXX Orientation: oXXXXXXXXto person and oriented to place XXXXXXXXXXXXXXXXXXXXXXXXod awareness XXXXXXety precautions
+Speech: Intact
+Behavior: Cooperative
+SeXXXXioXXXXXXXXXXXXsXX
+SXXXX UnremarkXXXe
+UE: AROM appearXXXXXXXXX XXXXXXXd pt moveXX UXXXXasint graXXXy
+LE: AROM appears WFL AXX observed pt move B LE agasint gravity
+Balance: Sitting static: Good, Sitting dynamic: Good, Standing static: Good and
+Standing dynamic: Fair plus with walker
+Posture: SitXXXX PostXXXXXXXrXXXXXXXXd and rounded shoulder and StanXXXX PostXXXXXXXrXXXXXXXXd and rounded shoulder
+Coordination: NT
+Mobility:
+Bed Mobility: Bed Mobility: (pt up in chair upon entering)
+Transfers: Transfer: sit to stand, stand to sit
+Equipment Used: Rolling Walker
+Sit to Stand: stand by assist
+Stand to Sit: stand by assist
+Gait: Distance Ambulated (ft): 125 ft
+Ambulation Device: Rolling Walker
+Ambulation Assistance Level: contact guard assist
+Gait Assessment: pt sitting in chair upon entering. pt sit-stand with RW and SBA. pt CGA for
+ambulation with RW. requested to ambulated beyond room. pt slow and needs incrased time
+but able to complete distance. question if pt able to manage I at home with ADL etc. per CM
+notes, pt has assist from family but dtr today requested rehab at DC.
+Number of Assist: 1 staff mXXXXXXXXXXXXXXXXXXXs:
+Supplemental Oxygen Supply:
+Outcome Measures:
+
+PDF Page 25
+Six Clicks:
+How much difficulty does the patient currently have turning over in bed (including adjusting
+bedclothes, sheets and blankets)?: None
+How much difficulty does the patient currently have sitting down on and standinXXXX from a
+chair with arms (e.g., wheelchair, bedside commode, eitc.)?: None
+How much difficulty does the patient currently have moving from lying on back to sitting on
+the side of the bed?: A Little
+How much help from another person does the patient currently need moving to and from a
+bed to a chair (including a wheelchair)?: None
+How much help from another person does the patient currenlty need to walk in hospital
+room?: A Little
+How much help from another person does the patient currently need climbing 3-5 steps with
+a railing?:XXXXXXXXXXXXXXXXXX Six XXXXXXXXXXXXXXXXXXXXX1
+Therapeutic Exercises:
+n/a
+Treatment Rendered During Session / Patient Education:
+See above comments
+End of session position: Up in chair, Call light within reach, All lines intact, Chair alarm on,
+Nursing notified
+Assessment
+ASSESSMENT
+Goal Timeline: LOS
+Patient Stated Goals: to go home
+Goals:
+Goal
+Progress
+Patient will be independent with supine
+New goal
+to sit transfers.
+Patient will be modified
+New goal
+independent with sit tXXXXXXXXXXXXXXers
+with rolling walker
+Patient will ambulate 51-100 - feet
+New goal
+modified independent with rolling
+walker
+Patient will go up and down 6-10
+New goal
+stairs modified independent with onXXrailinXXXXXXent is a 80 y.o. female who presenXXXXXXpXXXXcal therapy pelvic mass. Currently, thXXXXXXXXXXXemonsXXXXXXXXXXXXXXXXXXXXXX functional limitations as listed below. The patient
+would benefit XXXXXXXXXXXXXXXXkilled physical therapy intervention to improve these
+impairments and limitations, maximize safety, progress functional independence and
+
+PDF Page 26
+facilitate safe discharge. Patient's prognosis for goal completion is Good as evidenced by
+CGA/SBA for mobility with RW. Recommend SAR as pt is not at baseline and was using SC
+PTA. However, if pt not quialifed, then home with family assist and RW/HHPT would be rec.
+Disc with XXXXXXXXXXXXXXXXrmXXXX: XXXXXXXXXXXXXXXXX Pain, Decreased balance
+XXXXXXXXXXXXXXXXXXXXXX: Decreased XXXXXXXXXXXXXXXXXXXXXX, DecrXXXXXXXXXXXXXXXXXXXXXXXXXtair negotiation
+Therapy charges were separate and distincXXXXXXXXXXXXXXXXan
+PLAN
+Physical Therapy Plan of Care
+XXXXXXXXXXXXXXXXXXXXXXX
+Treatment/InterventXXXXXXXXXXXXXgoXXXXXXXXXXXXt training, ADL training, Balance,
+Compensatory technique education, Bed mobility
+PT Frequency: 3-5x/wk
+Equipment Recommended: Assistive device(s)
+Assistive Devices: Standard walker with wheels
+Plan PT/PTA Communication: Yes
+Discharge Disposition:
+Sub acute rehab (SAR pt is notXXXXXXXXXXne as she was ambulatory with SC PTA and now
+using RW. if pt does not qualify then home with family assist and HHPT. will need RW for
+home at thXXXXXXXXXXso.)
+NameXXXXXXX/25/2023
+Current IP Meds
+(From admission, onward)
+Start
+Stop Status
+XXXXXXXXequencXXXXXXXXX
+10/26/23 0900 bisacodyXXXXXXXXified
+RXXXXXXXX
+10/23/23 1616
+(DULCXXXXXXXXppositXXXXXXXXXX10/26/23 0900
+enoxaparin
+--XXXXXXXXd
+SubQ
+XXXXXXX4
+10/25/23 0955
+(LOVENOX)
+HOURS
+injection 40
+mg
+
+PDF Page 27
+Start
+Stop StatusXXXXXXXXrequenXXXXXXXreXXXXXXX/2XXXXXXXXeparin (porcine)
+10/26/23 055XXXXXXXXsed
+SubQ
+3 TIMES
+10/24/23 1635
+injXXXXXXXX,000
+DXXXXXXXXXX
+XXXXXXXX 1430
+ALPRAZolam
+10/24/23 XXXXXXXXpleted
+XXXXXONCE
+10/24/23 1409
+(XXXXXXXXXlit taXXXXXXXXXX
+XXXXXXXX 1200
+enoxaparin
+10/24/23 1638XXXXXXXXinued SXXXXXXXLY
+10/23/23 1245
+(LOVENXXXXXXXXXXion 40 mg
+(CDH
+ENOXAPARIN 40
+MG DAILY WHEN
+DOSE GIVEN
+WITHIN 24
+HOUXXXXXXXXus:
+DiXXXXXXXXXXXXXX24/23 0900
+cyanocobalaminXXXXXXXXensed
+Oral
+DAILY
+10/23/XXXXXXXXtabletXXXXXXXXXXX10/23/23 2100
+pravastatin
+-XXXXXXXXsed
+OraXXXXXXXXX
+10/23/23 1616
+XXXXXXXXOL)
+taXXXXXXXXXX
+10/23/23 2100
+famotidine
+-XXXXXXXXsed
+OraXXXXXXMES
+10/23/23 1616
+(PEXXXXXXXXblet
+DXXXXXXXXXXXXXX23/23 2100 senna-docusate
+-XXXXXXXXsed
+OraXXXXXXXXXX10/23/23 1616
+(PERICOLACE)
+DAILY
+8.6-5XXXXXXXX
+tableXXXXXXXXXXX10/23/23 2100
+hydroxyureXXXXXXXXsed
+OraXXXXXXMES
+10/23/23 1616
+(HYDRXXXXXXXXY
+capsXXXXXXXXXXXXX/23/23 1800 acetaminophen
+-XXXXXXXXsed
+OraXXXXXXXES
+10/23/23 1616
+(TYLENOL) tablet
+DAIXXXXXXXXg
+(8A,XXXXXXXXXXXXXXXXX23 1757
+polyviXXXXXXXXXol
+-- DisXXXXXXXXoth EyeXXXXXXXXXX10/23/23 1758
+(AKWA TEARS)
+DAILY PRN
+1.4% opXXXXXXXX
+solutXXXXXXXXXXXXXXX3/23 1715
+diphenhydrAMINXXXXXXXXified
+IXXXXXXXXN
+10/23/23 1716
+(BEXXXXXX)
+injection 25 mg
+XXXXXXXXXXXtocol
+(Adult)
+medications)
+
+PDF Page 28
+Start
+Stop StatuXXXXXXXXFrequeXXXXXXXXXXX
+10/23/23 1715
+ondansetron (PF)XXXXXXXXed
+IVPUXXXXXXRY 6
+10/23/23 1716
+(ZOFRAN)
+XXXXXXPRN
+injection 4 mg
+(Nausea Protocol
+(Adult)
+medications)
+See attached
+printout for fXXXXXXXXed OrdXXXXXXXXXXX
+10/23/23 1715
+ondansetron-XXXXXXXXfied
+OrXXXXXXXXXX
+10/23/23 1716
+(ZOFRAN-ODT)
+HOURS PRN
+diXXXXXXrating
+tablet 4 mgXXXXXXXXXXXotocol
+(Adult)
+medications)
+See attached
+printout for fXXXXXXXXed OrdXXXXXXXXXXXXXX/23/23 1715
+metoclopramide
+-XXXXXXXXed
+IVPUXXXXXXRY 6
+10/23/23 1716
+(REGLAN)
+HXXXXXXRN
+injection 10 mgXXXXXXXXXXXotXXXXXXXXult)
+mXXXXXXXXXXXXXXXX3/23 1715
+prochlorperaziXXXXXXXXied
+RecXXXXXXXXX2
+10/23/23 1716
+(COMPAZINE)
+HOUXXXXXX
+suppository 25
+mgXXXXXXXXXXXotXXXXXXXXult)
+mXXXXXXXXXXX
+10/23/23 1700
+latanoprXXXXXXXXXage 29
+XXXXXXXXd
+Both XXXXXXXERY
+10/23/23 1616
+(XALATAN) 0.005
+EVENING
+% ophthalmic
+BEFOXXXXXXXXion 1 XXXXXXXXXXXXXXXX3XXXXXXXX
+lactated ringers
+10/24/23 1644 VeXXXXXXXXV Drip
+CONTINUOXXXXXXXX/23 16XXXXXXXXion
+10/23/23 1615
+traMAXXXXXXXXfied
+OrXXXXXXRY 6
+10/23/23 1616
+(ULTRAMXXXXblet
+HOURS PRN
+50 mg (PXXXXMaXXXXXXXX -
+Moderate Pain
+(tramadol))
+
+PDF Page 30
+Start
+Stop StatXXXXXXXX
+FrequXXXXXXXXXXXXX10/23/23 1615 HYDROmorphoXXXXXXXXied
+IVPUSH
+EXXXXXXXX0/23/23 1616
+(PF) (DILAUDID)
+HOUXXXXRN
+injection 0.5-1
+mgXXXXin
+XXXXXXXXXXXXXSeverXXXXXXXX
+HYDROXXXXXXXXXXXXXXX/23/23 1615
+diphenhydrAMIXXXXXXXXied
+IVPXXXXXXXXY 6
+10/23/23 1616
+(BENADRYL)XXXXXXXXRN
+injXXXXXXXXXXXg
+10/23/23 1615
+simethiconXXXXXXXXified
+OXXXXXXXIMES
+10/23/23 1616
+(MYLICON)
+DAILYXXXXXXXXwable XXXXXXXXXXmg
+10/23/23 1615
+benzocaineXXXXXXXXified
+Bucl
+EVERY 4
+10/23/23 1616
+menthXXXXXXXXXXXN
+(CHLORASEPTIC
+SOREXXXXXXXX
+6-10 XXXXXXXXXXXXXXXX23/23 1300
+lactated ringers
+-- VXXXXXXXXIV Drip
+CONTINUXXXXXXXX3/23 1XXXXXXXXXXXXXXXX23/23 0800
+lactated ringers
+-- VXXXXXXXXIV Drip
+CONTINUOUS 10/23/23 0740
+infusion
+Last 24 HRs of AdminsXXXXXXXXXXistrations since 10/24/2023 aXXXXXXXXXXelXXXXXXXXXXXXXd medication.
+acetaminopXXXXXXXXXXXXXe
+XXXXXXXDate
+acetaminophen (TYLENOL) XXXXXXXXXX mg
+650 mg
+GivXXXXXXXXXX0XXXXXXXXXXGiven
+10/24/2023
+alprazoXXXXXXXXXXDoXXXXXtion
+Date
+ALPRAZolam (XANAX) spliXXXXXXXXXX5 mgXXXXXXXXXXXXXX0/XXXXXXXXXXXXyanocobalamin (vitamin B-XXXXXXXXXXXXXX
+Action
+Date
+cyanocobalamin taXXXXXXXXXX mcg
+1,000
+Given
+XXXXXXXXXX
+mcg
+XXXXXXXXXXn
+10/24/2023
+mcg
+famotidXXXXXXXXXXDoXXXXXXion
+Date
+famotidine (PEPCIDXXXXXXXXXX0 mg
+20 mg
+GiXXXXXXXXXX2023
+20 mg
+Given
+10/24/20XXXXXXXXXXgXXXXXXXXXXXXXXXXXXXXXX/2023
+heparin sodium,porXXXXXXXdeXXXXXXXAction
+Date
+heparin (porcine) injectXXXXXXXXXXUnits
+5,000
+Given
+1XXXXXXXXXXUnits
+5XXXXXXXXXXX10/24/2023
+Units
+hydroxyXXXXXXXXXXXDoXXXXXXion
+Date
+hydroxyurea (HYDREA) XXXXXXXXXX0 mg
+500 mg
+GiXXXXXXXXXX2XXXXXXXXXXXGiven
+10/24/2023
+latanopXXXXXXXXXXXDoXXXXXXXon
+Date
+latanoprost (XALATAN) 0.005 % ophthalmic sXXXXXXXXXXdXXXXXXXXXXXXXXXXXX0/24/2023
+ondansetron HCXXXXXXXXXXXDose
+AcXXXXXXate
+ondansetron (PF) (ZOFRANXXXXXXXXXXnXXXXXXXXXXXXXXXXXX0/25/2023
+pravastatin soXXXXXXXXXXXDoXXXXXXXXX
+Date
+pravastatin (PRAVACHOXXXXXXXXXX2XXXXXXXXXX
+XXXXXXXXXXXXXXX3
+sennosides/docusate soXXXXXXXXXXXXXXe
+XXXXXXXXXXe
+senna-docusate (PERICOLACE) 8.6-50 mg per tabXXXXXXXXXXet
+2 tablet
+GXXXn
+10/25/2023
+
+PDF PagXXXXXXXXXXXXXXXX Last 72hrs
+-Blood Smear Exam, RBC Morphology [LAB
+Reflex Order#:
+(Ord#:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 0/1 InterXXXXXXXXXXIXXXLaXXXreleased: 10/25/2023
+CBC XXXXXXXXXXX#:
+Spec. #
+XXXXXXXXXX Collect
+Resulted: 10/25/2023 6:19 AM AbnoXXXXXFXXXXXXXXXXt
+Collected: Blood 10/25/2023 5:17 AM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+ValuXXXlag
+Low
+High
+Units
+StaXuXXXBC
+9.1
+3.6
+10.2
+X0XXXuL
+F
+RBC
+2.2X
+XXX0^6/uL
+F
+HXBXXX5
+L
+g/dL
+F
+HCT
+25.6
+L
+%
+XXXCV
+111.8
+H
+82.0
+99.0
+fLXXXXCH
+37.1
+H
+27.0
+33.0
+pXXXXXXXC
+33.2
+32.0
+36XXXg/dL
+F
+RDW
+F
+Not measurXdXXXT
+128
+L
+150
+450
+10^XXXXXXXXXXXXXX
+9.8
+12X7XXXXXXXXXXXXXXXXXXCs
+0.0
+%
+F
+AbXoXXXe Nucleated
+0.0
+10XXXXXXXXXXXXXXXXXXXXXXXXXXs: Open
+Basic Metabolic Panel [LAB
+Order #:
+Spec. #:
+XXXXXXXXXX
+Collect
+Resulted: 10/25/2023 6:04 AM Abnormal FXXXXXXXXXXt
+Collected: Blood 10/25/2023 5:17 AM
+By:
+Priority: Routine
+Lab: CDH LAB
+Component
+ValuXXXXXX
+Low
+High
+UnitXXXXXXXXXSodium
+142
+mXoXXXXXXXXtassium
+3.9
+mmXlXXXF
+Chloride
+10XXXXXXXXXL
+F
+CO2
+27XmXXX/L
+F
+Anion GXXXXXXXXXXL
+F
+Bun
+16
+mg/dL
+F
+CreatXXXXXX0.XXXXXXX
+1.30
+mg/dL
+F
+eGFRcr (CKXXXXXXXXXXL/min/1.73 F
+X0XXXXXXXCalcium
+8.0
+L
+mg/dL
+F
+Glucose
+109
+H
+mg/dL
+F
+XXXXXXXXXXXXXXXXXXXXXXStXXXXXXXXXXXXXXooXXXmear Exam, RBC Morphology [LAB]
+Reflex Order#:
+(Ord#:
+Spec. #:XXXXXXXXXXb Collect
+Resulted: 10/25/2023 6:19 AM AbnXXXXX XXXXXXXXXXlt
+Collected: Blood 10/25/2023 5:17 AM
+By:
+Priority: Routine
+Lab: CDH LAB
+Component
+ValXXXXXXXXXXXXXXgh
+Units
+StaXXXXXXXXXXXXXology
+RevieXXXXXXXXlychromasiXXXXXXXXXXF
+PLATELET
+Normal
+F
+MORPHOLOGY - Hx
+Upload
+MacrocytosiXXXXXXXXXXXXXXXXXXXXXXStatus: Open
+-Blood Smear Exam, RBC Morphology [LAB
+Reflex Order#:
+(Ord#:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 0/1
+InteXXXXXXXXXXTXXX
+Last released: 10/24/2XXXXXXXXwithout Differential (Hemogram) [LAB
+Order #:
+Spec. #:XXXXXXXXXXb Collect
+Resulted: 10/24/2023 1:42 PM Abnormal XXXXXXXXXXlt
+Collected: Blood 10/24/2023 12:57 PM
+By:
+Priority: Routine
+Lab: CDH LAB
+Component
+ValXXXFlag
+Low
+High
+Units
+StatuX
+XXX
+10.8
+H
+3.6
+10.2X1XXX/uL
+F
+RBC
+2.X2XXX10^6/uL
+F
+XGXXX.0
+L
+g/dL
+F
+HCT
+26.5
+L
+%XXXMCV
+109.5
+H
+82.0
+99.0
+fXXXXMCH
+37.2
+H
+27.0
+33.0
+pgXXXMXHC
+34.0
+32.0
+3XXX
+g/dL
+F
+RDW
+F
+Not measuXeXXXLT
+125
+L
+150
+450
+10^XXXXXXXXXXXXXX0
+9.8
+12.XXXXXXXXXXXXXXXXXXBCs
+0.0
+%
+F
+Absolute Nucleated
+0.0
+1XXXXXXXXXXXXXXXXXXXXXXStXXXXXXXXXXXXXXood Smear Exam, RBC Morphology [LAB
+Reflex OXXXXXXXXXXX#:
+Spec. #:XXXXXXXXXXb Collect
+Resulted: 10/24/2023 1:42 PM Abnormal Final resultXXXXXXXXXX 34
+Collected: Blood 10/24/2023 12:57 PM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+Value
+Flag
+Low
+High
+Units
+Status
+RBC Morphology
+Reviewed
+F
+PLATELET
+EnlXXXXXXXXXXXXHOLOGY - Hx
+UpXoad
+Macrocytosis
+MXXXXXXXX!
+A
+F
+Provider Status: XXXXXXXX without Differential (Hemogram) [LAB
+Order #:
+Class: Lab Collect
+STANDING
+Standing Order Information
+Remaining Occurrences: 0/1 IntXXXXXXXXXX TIME
+Last rXXXased: 10/24/2023
+[CANCEXXXXXXXX wiXXXut Differential (Hemogram) [LAB
+Order #:
+Class:
+Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 1/1 InterXXXXXXXXXXXXXXXXXXXXXraw in AM
+Basic Metabolic Panel [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order InfoXXXtion
+Remaining Occurrences: 4/5 Interval: DAILYXXXXXXXXXXtime)
+Last released: 10/25/20XXX[CANCELED] Type and Screen [LXXXXXXXXXXXXXXXssXXXab Collect
+Magnesium LevelXXXAB
+Order #:
+Spec. #XXXXXXXXXXab
+Collect
+Resulted: 10/24/2023 5:34 AM XXXXXlXXXXXXXXXXult
+Collected: Blood 10/24/2023 4:38 AM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+VaXXXXXXXXXLow
+High
+Units
+Status
+Magnesium
+1.9
+1.7
+2.8XXX/dXXX
+Provider Status: Open
+CBCXXXAB
+Order #:
+Spec. #XXXXXXXXXXab Collect
+Resulted: 10/24/2023 5:19 AM AbXXXXXlXXXXXXXXXXult
+Collected: Blood 10/24/2023 4:38 AM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+VaXXX
+Flag
+Low
+High
+Units
+SXaXXX
+WBC
+9.0
+3.6
+10.X
+XXX3/uL
+F
+RBC
+1.56XXX10^6/uL
+F
+HGB
+6.4
+LL
+g/dL
+F
+HCT
+19.7
+L
+%
+F
+
+PDF Page 35
+Component
+VXXXe
+Flag
+Low
+High
+Units
+StXXXs
+MCV
+126.3
+H
+82.0
+99.0XXXXF
+MCH
+41.0
+H
+27.0
+33.0
+XXXF
+MCHC
+32.5
+32.0
+3X.XXX/dL
+F
+RDW
+12.8
+11.0
+15.X
+XXX
+PLT
+117
+L
+150
+45X
+XXXXXXXXXXXXXX9.9
+9.8
+1XXXXXXXXXXXXXXXXXX RBCs
+0.0
+%
+FXAXXXlute Nucleated
+0.0
+XXXXXXXXXXRBC
+Result Narrative:
+10/24/2023 5:18 AM: P indicates partial results on a panel have been released. XXXXXXXXXX results will
+follow.
+10/24/2023 5:19 AM: This result has been final verified. No additional or changed resultsXXXXXXXXXXXXXXXXXXXXXXXXXXatXXX Open
+Basic Metabolic Panel [LAB
+Order #:
+Spec. XXXXXXXXXXLab
+Collect
+Resulted: 10/24/2023 5:34 AM AXXXXXaXXXXXXXXXXsult
+Collected: Blood 10/24/2023 4:38 AM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+VXXXXXXlag
+Low
+High
+UXXXXXXXXXus
+Sodium
+138
+XXXXXXXX
+Potassium
+4.6XmXXX/L
+F
+ChlorideXXXXXXXXXol/L
+F
+CO2X2XXXmol/L
+F
+AnioXXXXXXXXXXol/L
+F
+Bun
+16
+mg/dL
+F
+CrXXXXXXneXXXXXXX.60
+1.30
+mg/dL
+F
+eGFRcr XXXXXXXXXX6
+mL/min/1.X3XXXXXXX)
+m²
+Calcium
+8.7
+mg/dL
+F
+Glucose
+117
+H
+mg/dL
+F
+PXXXXXXXXXXatXXX Open
+[CANCELED] Creatinine [LAB
+Order #XXXXXXXXXXXXXXXllXXX
+[CANCELED] PotasXXXm Level [LAB
+Order #XXXXXXXXXXabXXXllect
+[CANCELED] Creatinine [XXXXXXXXXXXXXXXasXXXLab Collect
+Magnesium Level [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 0/1
+Interval: Routine 1XXXXXXXXXX in AM
+Last XXXXXXXXXX10XXX/2023
+[CANCELED] Creatinine [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining OccurrenceXXXX/1 Interval: Routine 1XXXXXXXXXX in AM
+Last released: 10XXXXXXXXXXXXXXXagXXX6
+[CANCELED] Potassium Level [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining OccurrencXXXX0/1 Interval: Routine XXXXXXXXXXw in AM
+LastXXXXXXXXXX 10/24/2023
+[CANCELED] Creatinine [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 0/1 Interval: Routine XXXXXXXXXXwXXX AXXXast released: 10/24/2023
+CBC [LAB
+Order #:
+Class: Lab Collect STANDING
+Standing Order InXXXmation
+Remaining Occurrences: 3/5 Interval: DAIXXXXXXXXXXyXXXXXXXXXXXXXXXXXXXXX 10/25/2023
+BasXXXXXXXXXXXXXXXnel [LAB
+Order #: 1766692107Class: Lab Collect STANDING
+Standing Order Information
+Remaining Occurrences: 0/1
+Interval: Routine XXXXXXXXXXwXXXXXXXXXst releasXXXXXXXX4/2023
+Blood Gas, Istat, Arterial [LAB
+Order #:
+Class: Unit Collect STANDING
+Standing Order Information
+RemaXXXXXXXXXurrences: 0/1 IntervaXXXXXXXXXXRXXXXXXXXXst releXXXXXXXX/23/2023
+Blood Gas,Istat,Arterial [LAB
+Order #:
+Spec.XXXXXXXXXX
+Lab Collect
+Resulted: 10/23/2023 10:52 AM XXXXXmXXXXXXXXXXesult
+Collected: Blood 10/23/2023 10:37 AM By:
+Priority: Routine
+Lab: CDH LAB
+Component
+ValuXXXXXXXXXXXXXXh
+Units
+XXXXusXXXXXXXXerial Blood
+7.34
+F
+pCOX,XXXteXXXXXXXX7
+35.0
+45.0
+mm Hg
+F
+po2, ArXeXXXX
+2XXXXXXXX80.0
+105.0
+mm Hg
+F
+XCXXX ArteriaX
+XXXL
+22
+26
+mmol/LXXXXXX
+2XXXXX
+F
+HGB
+8.8
+L
+g/dL
+F
+SXXXXXXXXXXXXXXXXXXXXXXXXXXXq/L
+F
+Blood Gas
+PotXssium Bld Gas
+3.8
+3.5
+4.9
+mEq/L
+F
+Ionized XXXXXXXXXXXXXXXXX2XXXXXXXXXXXX
+F
+Whole Blood
+CTCO2 ArteXial POCXXXXXXXXXXXX
+27.0
+mmol/L
+F
+CSO2, Arterial POC 100
+H
+95
+98
+%
+F
+Provider Status: Open
+SURGICAL PATHOLOGY [LAB
+Order #:
+Class: Clinic Performed STANDING
+Standing Order Information
+Remaining Occurrences: 0/1 Interval: RELEASE UPON ORDXXXXXXXXXX Page 37
+Last released: 10/23/2023
